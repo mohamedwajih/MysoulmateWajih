@@ -1,0 +1,3 @@
+mysoulmate_homepage:
+    path:     /
+    defaults: { _controller: MysoulmateBundle:Mysoulmate:index }
